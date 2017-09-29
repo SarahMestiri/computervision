@@ -8,3 +8,4 @@ So, it can contain numbers and letters.
 My first trial was using End to End Text Recognition code in C++ provided by OPENCV. More details can be find in their documentation: http://docs.opencv.org/3.0-beta/modules/text/doc/erfilter.html
 <br>
 I didn't get good results with it, so I tried other methods. 
+Note: I will update this file with more details. For now you can check  <a href=" http://www.sarahmestiri.com/index.php/2017/09/28/from-opencv-and-…sion-challenge-2/"> my website blog posts </a>
