@@ -9,4 +9,4 @@ My first trial was using End to End Text Recognition code in C++ provided by OPE
 <br>
 I didn't get good results with it, so I tried other methods. 
 <br>
-Note: I will update this file with more details. For now you can check my website blog posts: http://www.sarahmestiri.com/index.php/2017/09/28/from-opencv-and-…sion-challenge-2/
+<strong>Note:</strong> I will update this file with more details. Meanwhile you can check my website blog posts about the project: http://www.sarahmestiri.com/index.php/2017/09/28/from-opencv-and-…sion-challenge-2/
